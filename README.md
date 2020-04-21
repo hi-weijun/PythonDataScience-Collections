@@ -204,7 +204,7 @@
 -  [MIT-18.06-线性代数-完整笔记](https://github.com/apachecn/18.06-linalg-notes)
 -  [两小时讲完线性代数](https://www.bilibili.com/video/av7564112?from=search&seid=10663434405036315716)
 -  [矩阵编码：线性代数在计算机科学中的应用](http://codingthematrix.com/)  
--  [线性代数应用](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)-戴维森学院  
+-  [线性代数应用-戴维森学院](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) 
 -  [可汗学院公开课：统计学](http://open.163.com/special/Khan/khstatistics.html)  
 -  [加利福尼亚大学伯克利分校公开课：统计学](http://open.163.com/movie/2017/5/0/8/MCJQECVBF_MCJSVSQ08.html)  
 -  [浙江大学公开课：概率论与数理统计](http://open.163.com/movie/2019/4/R/6/MEC1U20OT_MEC1U8MR6.html)  
@@ -214,7 +214,7 @@
 -  [ 概率论与数理统计  浙大版（第四版）](https://github.com/Thinkgamer/books/blob/master/7、统计学与概率论/ 概率论与数理统计  浙大版（第四版）教材.pdf)
 -  [概率论与数理统计-中科大公开课](https://www.bilibili.com/video/av3781284/)  
 -  [商务与经济统计-北师大公开课](http://www.icourse163.org/course/BNU-1003604001)  
--  [哈佛大学](http://projects.iq.harvard.edu/stat110/youtube)统计学110讲稿  
+-  [哈佛大学统计学110讲稿](http://projects.iq.harvard.edu/stat110/youtube)
 -  [概率论和统计学](https://www.khanacademy.org/math/probability)-Khan Academy  
 -  [麻省理工学院公开课：微积分重点](http://open.163.com/special/opencourse/weijifen.html)  
 -  [清华大学微积分主讲-刘坤林](https://www.bilibili.com/video/av29845488/)  
@@ -224,7 +224,6 @@
 -  [麻省理工学院公开课：单变量微积分](http://open.163.com/special/sp/singlevariablecalculus.html)  
 -  [HACC公开课：微积分1](http://open.163.com/movie/2018/12/0/H/ME19860FO_ME1AUHF0H.html)  
 -  [HACC公开课：微积分II](http://open.163.com/movie/2018/12/1/S/ME2SKV6B0_ME2UJ1G1S.html)  
--  微积分—多元函数与重积分-清华大学  
 -  [数学分析讲义 - 南京大学数学系](http://math.nju.edu.cn/~meijq/calculus/notes.pdf)  
 -  [7天搞定微积分](http://www.rsqdz.net:907/upload/userfile/naturalism/shuxue/7天搞定微积分.李巧丽.扫描版.pdf)  
 -  [托马斯微积分](https://github.com/gnuhub/books-1/blob/master/数学●基础数学●数学分析/托马斯微积分.pdf)   
@@ -243,11 +242,8 @@
 ## 十二、地理信息分析
 
 - [geoplot地理空间可视化官方文档](https://residentmario.github.io/geoplot/index.html) 
-
 - [folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
-
 - [geopandas地理空间数据处理官方文档](https://geopandas.org/) 
-
 - [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
 
 
