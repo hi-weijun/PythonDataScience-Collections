@@ -1,9 +1,27 @@
 # Python-Data-Analysis-Resources
+
 最全数据分析资料汇总（含python、爬虫、数据库、大数据、tableau、统计学等）
-[toc]
+
+![img](https://pic4.zhimg.com/v2-0ffe6ff776983ce919d914f82437a803_b.png)
+
+
+**目录** 
+
+- [一、Python基础](#%E4%B8%80python%E5%9F%BA%E7%A1%80)
+- [二、Python资源](#%E4%BA%8Cpython%E8%B5%84%E6%BA%90)
+- [三、Python爬虫](#%E4%B8%89python%E7%88%AC%E8%99%AB)
+- [四、Python可视化](#%E5%9B%9Bpython%E5%8F%AF%E8%A7%86%E5%8C%96)
+- [五、python数据分析](#%E4%BA%94python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+- [六、python机器学习](#%E5%85%ADpython%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+- [**七、数据库**](#%E4%B8%83%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [八、Tableau](#%E5%85%ABtableau)
+- [九、大数据](#%E4%B9%9D%E5%A4%A7%E6%95%B0%E6%8D%AE)
+- [十、数理统计知识](#%E5%8D%81%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%9F%A5%E8%AF%86)
+- [十一、量化](#%E5%8D%81%E4%B8%80%E9%87%8F%E5%8C%96)
+- [十一、数据集](#%E5%8D%81%E4%B8%80%E6%95%B0%E6%8D%AE%E9%9B%86)
+- [十二、地理信息分析](#%E5%8D%81%E4%BA%8C%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90)
 
 ---
-![img](https://pic4.zhimg.com/v2-0ffe6ff776983ce919d914f82437a803_b.png)
 
 ## 一、Python基础
 
@@ -182,9 +200,9 @@
 -  [山东大学MOOC-线性代数](https://www.icourse163.org/course/sdu-55001)  
 -  [线性代数讲义 - 华东师范大学数学系](http://math.ecnu.edu.cn/~hryuan/preprint/la.pdf)  
 -  [线性代数-北京大学出版社](http://www.pup.cn/ztpage/gzgz/PDF/book/高职数学/13.线性代数.pdf)  
-- [线性代数-维基百科](https://link.juejin.im/?target=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinear_algebra)
-- [MIT-18.06-线性代数-完整笔记](https://github.com/apachecn/18.06-linalg-notes)
-- [两小时讲完线性代数](https://www.bilibili.com/video/av7564112?from=search&seid=10663434405036315716)
+-  [线性代数-维基百科](https://link.juejin.im/?target=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLinear_algebra)
+-  [MIT-18.06-线性代数-完整笔记](https://github.com/apachecn/18.06-linalg-notes)
+-  [两小时讲完线性代数](https://www.bilibili.com/video/av7564112?from=search&seid=10663434405036315716)
 -  [矩阵编码：线性代数在计算机科学中的应用](http://codingthematrix.com/)  
 -  [线性代数应用](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)-戴维森学院  
 -  [可汗学院公开课：统计学](http://open.163.com/special/Khan/khstatistics.html)  
@@ -193,7 +211,7 @@
 -  [可汗学院公开课：概率](http://open.163.com/special/Khan/probability.html)  
 -  [概率论与数理统计-重庆大学公开课](http://www.xuetangx.com/courses/course-v1:CQU+MATH20041X+2018_T2/about)  
 -  [概率论与数理统计-北京大学公开课](https://www.bilibili.com/video/av34021718/)  
-- [ 概率论与数理统计  浙大版（第四版）](https://github.com/Thinkgamer/books/blob/master/7、统计学与概率论/ 概率论与数理统计  浙大版（第四版）教材.pdf)
+-  [ 概率论与数理统计  浙大版（第四版）](https://github.com/Thinkgamer/books/blob/master/7、统计学与概率论/ 概率论与数理统计  浙大版（第四版）教材.pdf)
 -  [概率论与数理统计-中科大公开课](https://www.bilibili.com/video/av3781284/)  
 -  [商务与经济统计-北师大公开课](http://www.icourse163.org/course/BNU-1003604001)  
 -  [哈佛大学](http://projects.iq.harvard.edu/stat110/youtube)统计学110讲稿  
@@ -225,9 +243,11 @@
 ## 十二、地理信息分析
 
 - [geoplot地理空间可视化官方文档](https://residentmario.github.io/geoplot/index.html) 
-- [folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
-- [geopandas地理空间数据处理官方文档](https://geopandas.org/) 
-- [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
 
+- [folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
+
+- [geopandas地理空间数据处理官方文档](https://geopandas.org/) 
+
+- [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
 
 
