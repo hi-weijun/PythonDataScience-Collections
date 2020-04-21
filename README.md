@@ -222,10 +222,10 @@
 
 ## 十二、地理信息分析
 
-[geoplot地理空间可视化官方文档](https://residentmario.github.io/geoplot/index.html) 
-[folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
-[geopandas地理空间数据处理官方文档](https://geopandas.org/) 
-[cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
+- [geoplot地理空间可视化官方文档](https://residentmario.github.io/geoplot/index.html) 
+- [folium地图可视化官方文档](https://python-visualization.github.io/folium/) 
+- [geopandas地理空间数据处理官方文档](https://geopandas.org/) 
+- [cartopy地理空间可视化官方文档](https://scitools.org.uk/cartopy/docs/latest/) 
 
 
 
