@@ -1,6 +1,6 @@
-# Python-Data-Analysis-Resources
+# 最全python数据分析资料汇总
 
-最全数据分析资料汇总（含python、爬虫、数据库、大数据、tableau、统计学等）
+含python、爬虫、数据库、大数据、可视化、机器学习、tableau、统计学、地理信息等
 
 ![img](https://pic4.zhimg.com/v2-0ffe6ff776983ce919d914f82437a803_b.png)
 
