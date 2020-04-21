@@ -13,7 +13,7 @@
 - [四、Python可视化](#%E5%9B%9Bpython%E5%8F%AF%E8%A7%86%E5%8C%96)
 - [五、python数据分析](#%E4%BA%94python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
 - [六、python机器学习](#%E5%85%ADpython%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
-- [**七、数据库**](#%E4%B8%83%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [七、数据库](#%E4%B8%83%E6%95%B0%E6%8D%AE%E5%BA%93)
 - [八、Tableau](#%E5%85%ABtableau)
 - [九、大数据](#%E4%B9%9D%E5%A4%A7%E6%95%B0%E6%8D%AE)
 - [十、数理统计知识](#%E5%8D%81%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%9F%A5%E8%AF%86)
