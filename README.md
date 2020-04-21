@@ -2,7 +2,7 @@
 
 含python、爬虫、数据库、大数据、可视化、机器学习、tableau、统计学、地理信息等
 
-<img src="![](https://upload-images.jianshu.io/upload_images/13723999-cea72ac0aeccd5f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)" alt="" style="zoom:80%;" />
+![](https://upload-images.jianshu.io/upload_images/13723999-cea72ac0aeccd5f1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 **目录** 
