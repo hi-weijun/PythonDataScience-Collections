@@ -211,7 +211,6 @@
 -  [可汗学院公开课：概率](http://open.163.com/special/Khan/probability.html)  
 -  [概率论与数理统计-重庆大学公开课](http://www.xuetangx.com/courses/course-v1:CQU+MATH20041X+2018_T2/about)  
 -  [概率论与数理统计-北京大学公开课](https://www.bilibili.com/video/av34021718/)  
--  [概率论与数理统计-浙大版](https://github.com/Thinkgamer/books/blob/master/7、统计学与概率论/概率论与数理统计  浙大版（第四版）教材.pdf)
 -  [概率论与数理统计-中科大公开课](https://www.bilibili.com/video/av3781284/)  
 -  [商务与经济统计-北师大公开课](http://www.icourse163.org/course/BNU-1003604001)  
 -  [哈佛大学统计学110讲稿](http://projects.iq.harvard.edu/stat110/youtube)
