@@ -17,7 +17,7 @@
 - [九、大数据](#%E4%B9%9D%E5%A4%A7%E6%95%B0%E6%8D%AE)
 - [十、数理统计知识](#%E5%8D%81%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E7%9F%A5%E8%AF%86)
 - [十一、量化](#%E5%8D%81%E4%B8%80%E9%87%8F%E5%8C%96)
-- [十一、数据集](#%E5%8D%81%E4%B8%80%E6%95%B0%E6%8D%AE%E9%9B%86)
+- [十一、数据集/接口](#%E5%8D%81%E4%B8%80%E6%95%B0%E6%8D%AE%E9%9B%86)
 - [十二、地理信息分析](#%E5%8D%81%E4%BA%8C%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90)
 
 ---
@@ -230,12 +230,15 @@
 
 - [Python量化投资](https://www.lizenghai.com/) 
 
-## 十一、数据集
+## 十一、数据集/接口
 
 - [sklearn自带数据集](https://scikit-learn.org/stable/modules/classes.html?highlight=dataset#module-sklearn.datasets) 
 - [kaggle数据集](https://www.kaggle.com/datasets) 
 - [UCI数据集](https://archive.ics.uci.edu/ml/datasets.php) 
 - [科赛网数据集](https://www.kesci.com/home/dataset)  
+- [tushare财经股票基金数据接口](http://tushare.org/)
+- [akshare财经股票基金数据接口](https://akshare.readthedocs.io/zh_CN/latest/)
+- [baostock财经股票基金数据接口](http://baostock.com/baostock/index.php/%E9%A6%96%E9%A1%B5)
 
 ## 十二、地理信息分析
 
