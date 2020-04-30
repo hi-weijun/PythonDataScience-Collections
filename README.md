@@ -81,6 +81,7 @@
 - [BeautifulSoup中文文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/) 
 - [BeautifulSoup英文文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 - [Xpath教程](https://www.runoob.com/xpath/xpath-tutorial.html) 
+- [selenium中文文档](https://selenium-python-zh.readthedocs.io/en/latest/)
 
 ## 四、Python可视化
 
