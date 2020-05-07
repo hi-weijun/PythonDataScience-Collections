@@ -3,7 +3,7 @@
 含python、爬虫、数据库、大数据、可视化、机器学习、tableau、统计学、地理信息等
 
 <img src="https://pic4.zhimg.com/80/v2-d88c6a5e4e8270e7bc7285f3a14dcce2_720w.png" alt="" style="zoom:75%;" />
-<img src="https://pic1.zhimg.com/80/v2-8b3254dd9bd47f5a839087e690febf6f_720w.png" alt="" style="zoom:50%;" />
+<img src="https://pic1.zhimg.com/80/v2-8b3254dd9bd47f5a839087e690febf6f_720w.png" alt="微信打赏" style="zoom:25%;" />
 
 **目录** 
 
