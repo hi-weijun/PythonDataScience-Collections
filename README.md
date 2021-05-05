@@ -46,6 +46,7 @@
 - [Python从入门到精通教程 视频（600集）](https://www.bilibili.com/video/av14184325/) 
 - [Kaggle Python基础学习（英文）](https://www.kaggle.com/learn/python) 
 - [李笑来-自学是门手艺-python教程](https://github.com/selfteaching/the-craft-of-selfteaching) 
+- [《Netkiller Python 手札》](http://www.netkiller.cn/python/index.html) | [EPUB电子书下载](http://www.netkiller.cn/download/epub/Netkiller-Python.epub)
 
 ## 二、Python资源
 
@@ -158,6 +159,7 @@
 - [The Little Redis Book](https://github.com/JasonLai256/the-little-redis-book/blob/master/cn/redis.md) 
 - [Apache Spark 设计与实现](https://github.com/JerryLead/SparkInternals/tree/master/markdown) 
 - [Kaggle SQL学习（英文）](https://www.kaggle.com/learn/intro-to-sql)
+- [《Netkiller MySQL 手札》](http://www.netkiller.cn/mysql/index.html)
 
 ## 八、Tableau
 
