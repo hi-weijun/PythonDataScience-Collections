@@ -88,7 +88,7 @@
 - [seaborn 英文文档](http://seaborn.pydata.org/)
 - [seaborn 中文文档](https://seaborn.apachecn.org/#/) 
 - [matplotlib 英文文档](https://matplotlib.org/) 
-- [matplotlib 中文文档（官方）](https://www.matplotlib.org.cn/)
+- [matplotlib 中文文档（官方）](http://www.matplotlib.org.cn/)
 - [matplotlib 中文文档](https://wizardforcel.gitbooks.io/matplotlib-user-guide/content/) （非官方）
 - [pyecharts 中文文档（官方）](https://pyecharts.org/#/zh-cn/intro) 
 - [plotly绘图官方教程 英文文档](https://plot.ly/python/) 
