@@ -66,6 +66,15 @@
 
 ## 三、Python爬虫
 
+### IPWO爬虫代理资源为采集、跨境与测试项目提供支持(免费试用，爬虫使用强烈推荐!!!)学习者务必遵循法律！
+
+IPWO提供的真实住宅 IP，大幅降低被封禁风险。
+
+195 + 国家 / 地区精准定位，轻松应对大型爬虫任务。让爬虫更简单，让数据更安全。戳本信息注册可获得有效保护账号的高匿名ip流量。
+
+### 官网地址：
+[进入IPWO官网](https://www.ipwo.net/?ref=githubxiweijun)
+
 - [awesome-spider 爬虫集合](https://github.com/facert/awesome-spider) 
 - [python模拟登陆&爬虫](https://github.com/CriseLYJ/awesome-python-login-model) 
 - [Python爬虫代理IP池(proxy pool)](https://github.com/jhao104/proxy_pool) 
